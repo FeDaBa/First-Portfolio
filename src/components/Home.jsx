@@ -17,7 +17,7 @@ const Home = () => {
                 </h2>
 
                 <p className="text-gray-500 py-4 max-w-md">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi temporibus laborum ducimus ea aliquam provident? Vel, maiores! Eveniet, omnis corrupti!
+                     Hi! I'm Federico. I develop websites and webapps since 2021, using the last technologies to make the best job possible.
                 </p>
 
                 <div>
