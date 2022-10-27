@@ -4,17 +4,11 @@ import react from '../assets/react.png'
 import angular from '../assets/angular.png'
 import javascript from '../assets/javascript.png'
 import node from '../assets/node.png'
-// import java from '../assets/java.png'
-// import ruby from '../assets/ruby.png'
 import bootstrap from '../assets/bootstrap.png'
 import tailwind from '../assets/tailwind.png'
 import css from '../assets/css.png'
 import html from '../assets/html.png'
-//import babel from '../assets/babel.png'
-//import git from '../assets/git.png'
-//import github from '../assets/github.png'
-// import gitkraken from '../assets/gitkraken.png'
-//import netlify from '../assets/netlify.png'
+
 
 const Experience = () => {
 
@@ -68,43 +62,7 @@ const Experience = () => {
             title: 'Node',
             style: 'shadow-green-500'
         },
-        // {
-        //     id: 9,
-        //     src: babel,
-        //     title: 'Babel',
-        //     style: 'shadow-yellow-300'
-        // },
-        // {
-        //     id: 10,
-        //     src: java,
-        //     title: 'Java',
-        //     style: 'shadow-orange-600'
-        // },
-        // {
-        //     id: 11,
-        //     src: ruby,
-        //     title: 'Ruby',
-        //     style: 'shadow-red-600'
-        // },
-
-        // {
-        //     id: 10,
-        //     src: git,
-        //     title: 'Git',
-        //     style: 'shadow-red-500'
-        // },
-        // {
-        //     id: 11,
-        //     src: github,
-        //     title: 'GitHub',
-        //     style: 'shadow-white'
-        // },
-        // {
-        //     id: 12,
-        //     src: netlify,
-        //     title: 'Netlify',
-        //     style: 'shadow-cyan-300'
-        // },
+        
     ]
 
   return (
