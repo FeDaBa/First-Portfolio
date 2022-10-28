@@ -13,15 +13,25 @@ const About = () => {
                 </p>
 
             </div>
-
-            <p className="text-xl mt-20">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugit eligendi sed accusamus quo unde, nobis labore enim, totam ex illum. Eligendi eaque quam dolorem accusamus dicta, dolores error quia perferendis ipsam iusto maiores voluptatibus optio? Veritatis vero voluptatum, velit, nesciunt aliquid eius iste iusto asperiores eaque odio temporibus perferendis!
+    
+            <p className="text-xl mt-20 leading-8 tracking-wide">
+                I joined the web development world in early's 2021 with a course provided by Telefonica Fundation and Movistar, after getting the certificate, I started experimenting with HTML and CSS to know better how these languajes works, and also continued doing more web development courses by FreeCodeCamp, Udemy, The Odin Project, etc.
             </p>
 
             <br />
 
-            <p className="text-xl">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis nemo, excepturi animi quaerat quis enim inventore voluptatum. Reprehenderit eaque excepturi consequuntur itaque non quaerat ut. Ipsum, commodi accusantium. Aliquid odit, aperiam aliquam id atque a in suscipit, tenetur minus laboriosam natus, libero soluta harum ex sequi iusto nisi at! Recusandae.
+            <p className="text-xl leading-8 tracking-wide">
+                In March 2022 I started a career as a <em>Systems Analyst</em> at the <em>National University from the Austral Patagonia</em> (UNPA),
+                where I learned a lot about programming and software engineering. Some months after, I joined a new course called <em>Argentina Programa</em>, wich is a national program
+                granted by the <em>Ministry of Production</em> and certified by the <em>National Instite of Industrial Technology</em> (INTI) and the <em>Chamber of the Argentine Software Industry</em> (CESSI)
+            </p>
+
+            <br />
+
+            <p className="text-xl leading-8 tracking-wide">
+                In the present day, I know more than 8 programming languages, frameworks and development platforms.
+                My main is the Front End, but I'm also learning about Back End to have a better understanding about how the web based software works.
+                I'm always looking to discover new horizons and improve myself with new challenges.
             </p>
 
         </div>
