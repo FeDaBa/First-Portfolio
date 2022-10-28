@@ -13,23 +13,6 @@ const About = () => {
                 </p>
 
             </div>
-    
-            <p className="text-xl mt-20 leading-8 tracking-wide">
-                I joined the web development world in early's 2021 with a course provided by Telefonica Fundation and Movistar, after getting the certificate, I started experimenting with HTML and CSS to know better how these languajes works, and also continued doing more web development courses by FreeCodeCamp, Udemy, The Odin Project, etc.
-            </p>
-
-            <br />
-            <p className="text-xl mt-20 leading-8 tracking-wide">
-
-                I joined the world of web development in early's 2021 with a course given by <a href="https://conectaempleo-formacion.fundaciontelefonica.com/argentina" className="text-cyan-400 duration-300" target={'_blank'} rel="noreferrer"><em>Telefónica</em></a>,
-                then I started experimenting with HTML and CSS to know better how those languages works,
-                and also continued taking more web development courses by <a href="https://www.freecodecamp.org/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>FreeCodeCamp</em></a>,
-                <a href="https://www.udemy.com" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em> Udemy</em></a>,
-                <a href="https://www.theodinproject.com/home" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em> The Odin Project</em></a>, etc.
-
-            </p>
-
-            <br />
 
             <p className="text-xl leading-8 tracking-wide font">
 
