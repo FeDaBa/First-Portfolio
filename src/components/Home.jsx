@@ -12,7 +12,7 @@ const Home = () => {
 
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
 
-            <div className="flex flex-col justify-center">
+            <div className="flex flex-col justify-between">
 
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
                     I'm a Front End Developer
@@ -46,7 +46,7 @@ const Home = () => {
 
              <div>
 
-                <img src={heroImage} alt="my profile" className="rounded-full mx-auto w-2/3 md:w-full mt-6 md:mt-0"/>
+                <img src={heroImage} alt="my profile" className="rounded-full mx-auto w-2/3 md:w-full"/>
 
              </div>
 
