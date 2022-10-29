@@ -19,7 +19,7 @@ const Home = () => {
                 </h2>
 
                 <p className="text-gray-500 py-4 max-w-md">
-                     Hi! I'm Federico. I develop websites and webapps using the latest technologies.
+                     Hi! I'm Federico. Welcome to my portfolio.
                 </p>
 
                 <div>
