@@ -69,7 +69,7 @@ const Portfolio = () => {
                 </p>
 
 
-                    <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0 mt-2">
+                    <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0 py-4">
 
                     {
                         portfolios.map(({ id, src, host, repo }) => (
