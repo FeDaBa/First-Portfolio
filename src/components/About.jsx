@@ -18,10 +18,10 @@ const About = () => {
 
             <p className="text-xl leading-8 tracking-wide font">
 
-                In March 2022 I started my university career as a <em>Systems Analyst</em> at the <a href="https://www.uarg.unpa.edu.ar/" className="text-cyan-400 duration-300" target={'_blank'} rel="noreferrer"><em>Universidad Nacional de la Patagonia Austral</em></a> (UNPA),
-                where I learned a lot about programming and software engineering. Some months after, I started a new course called <em>Argentina Programa</em>, wich is a national program to learn Full Stack Web Development,
-                certified by the <a href="https://www.argentina.gob.ar/inti" className="text-cyan-400 duration-300" target={'_blank'} rel="noreferrer"><em>Instituto Nacional de Tecnología Industrial</em></a> (INTI)
-                and the <a href="https://cessi.org.ar/" className="text-cyan-400 hover:font-normal duration-300" target={'_blank'} rel="noreferrer"><em>Cámara de la Industria Argentina del Software</em></a> (CESSI)
+                In March 2022 I started my university career as a <em>Systems Analyst</em> at the <a href="https://www.uarg.unpa.edu.ar/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Universidad Nacional de la Patagonia Austral</em></a> (UNPA),
+                where I learned a lot of things about programming and software engineering. Some months after, I started a new course called <em>Argentina Programa</em>, which is a national program to learn Full Stack Web Development,
+                certified by the <a href="https://www.argentina.gob.ar/inti" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Instituto Nacional de Tecnología Industrial</em></a> (INTI)
+                and the <a href="https://cessi.org.ar/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Cámara de la Industria Argentina del Software</em></a> (CESSI)
 
             </p>
 
