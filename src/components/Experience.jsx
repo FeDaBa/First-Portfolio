@@ -75,11 +75,11 @@ const Experience = () => {
 
             <div>
 
-                <p className="text-4xl font-bold border-b-4 border-gray-500 pb-4 inline">
+                <p className="text-4xl font-bold border-b-4 border-gray-500 inline">
                     Experiencia
                 </p>
 
-                <p className="py-6">
+                <p className="py-8">
                     Tecnologías con las que he trabajado
                 </p>
 
