@@ -65,7 +65,7 @@ const Portfolio = () => {
                 </p>
 
                 <p className="py-6 ">
-                    Check out some of my work right here
+                    Algunos de mis proyectos
                 </p>
 
 
