@@ -13,7 +13,7 @@ const Navbar = () => {
         },
         {
             id: 2,
-            link: 'Sobre mi'
+            link: 'info'
         },
         {
             id: 3,
