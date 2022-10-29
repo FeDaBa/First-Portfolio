@@ -15,7 +15,7 @@ const Home = () => {
             <div className="flex flex-col justify-center">
 
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    Federico Bahamonde
+                    Hola, soy Federico Bahamonde
                 </h2>
 
                 <p className="text-gray-400 py-4 max-w-md">
