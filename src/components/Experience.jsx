@@ -80,7 +80,7 @@ const Experience = () => {
                 </p>
 
                 <p className="py-6">
-                    These are the technologies I've worked with
+                    Tecnologías con las que he trabajado
                 </p>
 
             </div>
