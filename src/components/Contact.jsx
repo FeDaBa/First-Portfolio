@@ -11,11 +11,11 @@ const Contact = () => {
             <div className="pb-8">
 
                 <p className="text-4xl font-bold inline border-b-4 border-gray-500">
-                    Contact
+                    Contacto
                 </p>
 
                 <p className="py-6">
-                    Submite the form below to get in touch with me
+                    Por favor, complete el siguiente formulario si desea contactarme
                 </p>
 
             </div>
