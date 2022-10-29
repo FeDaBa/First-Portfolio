@@ -31,7 +31,7 @@ const About = () => {
             <p className="text-xl leading-8 tracking-wide">
 
                 En la actualidad, he realizado proyectos con más de 8 lenguajes de programación, librerías y frameworks.
-                Si biuen me especializo en el Front End, también me encuentro aprendiendo sobre desarollo Back End, para entender mejor el completo funcionamiento del software basado en la web.
+                Si bien me especializo en el Front End, también me encuentro aprendiendo sobre desarollo Back End, para entender mejor el completo funcionamiento del software basado en la web.
                 Estoy constantemente en busca de nuevos desafíos para superarme en el día a día.
 
             </p>
