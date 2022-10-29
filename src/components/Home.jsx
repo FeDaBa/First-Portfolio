@@ -15,11 +15,11 @@ const Home = () => {
             <div className="flex flex-col justify-center">
 
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Front End Developer
+                    Federico Bahamonde
                 </h2>
 
                 <p className="text-gray-500 py-4 max-w-md">
-                    Mi nombre es Federico, soy desarrollador web Front End desde 2021.
+                    Front End Developer
                 </p>
 
                 <div>
