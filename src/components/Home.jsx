@@ -19,7 +19,7 @@ const Home = () => {
                 </h2>
 
                 <p className="text-gray-500 py-4 max-w-md">
-                     Mi nombre es Federico, soy desarrollador web desde 2021.
+                     Mi nombre es Federico, soy desarrollador web Front End desde 2021.
                 </p>
 
                 <div>
