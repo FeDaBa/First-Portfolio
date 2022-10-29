@@ -75,7 +75,7 @@ const Experience = () => {
 
             <div>
 
-                <p className="text-4xl font-bold border-b-4 border-gray-500 pb-2 inline">
+                <p className="text-4xl font-bold border-b-4 border-gray-500 pb-3 inline">
                     Experiencia
                 </p>
 
