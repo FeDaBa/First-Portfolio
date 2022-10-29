@@ -89,7 +89,7 @@ const Portfolio = () => {
                                 </button>
 
                                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                                    <a href={repo} target="_blank" rel='noreferrer'>Code</a>
+                                    <a href={repo} target="_blank" rel='noreferrer'>Código</a>
                                 </button>
 
                             </div>
