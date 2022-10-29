@@ -18,7 +18,7 @@ const Home = () => {
                     Federico Bahamonde
                 </h2>
 
-                <p className="text-gray-500 py-4 max-w-md">
+                <p className="text-gray-400 py-4 max-w-md">
                     Front End Developer
                 </p>
 
