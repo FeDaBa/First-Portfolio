@@ -18,8 +18,8 @@ const Home = () => {
                     Hola, soy Federico Bahamonde
                 </h2>
 
-                <p className="text-gray-400 py-4 max-w-md">
-                    Front End Developer
+                <p className="text-gray-400 py-6 max-w-md">
+                    Desarrollador Web Front End desde 2021
                 </p>
 
                 <div>
