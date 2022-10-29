@@ -4,7 +4,7 @@ const Contact = () => {
 
   return (
 
-    <div name="contact" className="w-full h-full lg:h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white">
+    <div name="contacto" className="w-full h-full lg:h-screen bg-gradient-to-b from-black to-gray-800 p-4 text-white">
 
         <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
 
@@ -30,7 +30,7 @@ const Contact = () => {
                     <input
                         type="text"
                         name="name"
-                        placeholder="Enter your name"
+                        placeholder="Ingrese su nombre"
                         className="
                             p-2 bg-transparent border-2 rounded-md text-white focus:outline-none
                             focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500
@@ -43,7 +43,7 @@ const Contact = () => {
                     <input
                         type="email"
                         name="email"
-                        placeholder="Enter your email"
+                        placeholder="Ingrese su email"
                         className="
                             my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none
                             focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500
@@ -56,7 +56,6 @@ const Contact = () => {
                     <textarea
                         name="message"
                         rows="10"
-                        placeholder="Enter your message"
                         className="
                             p-2 bg-transparent border-2 rounded-md text-white focus:outline-none
                             focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500
