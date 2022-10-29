@@ -57,6 +57,7 @@ const Contact = () => {
                         name="message"
                         rows="10"
                         className="
+                        placeholder="Ingrese su mensaje"
                             p-2 bg-transparent border-2 rounded-md text-white focus:outline-none
                             focus:border-cyan-500 focus:ring-1 focus:ring-cyan-500
                             focus:invalid:border-pink-500 focus:invalid:ring-pink-500
