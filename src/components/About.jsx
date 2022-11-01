@@ -19,8 +19,8 @@ const About = () => {
             
             <p className="text-xl leading-8 tracking-wide">
 
-                Empecé a incursionar en el mundo del Desarrollo Web a principios del 2021 después de haber estudiado Marketing Digital. Allí conocí las bases y decidí
-                aprender más al respecto, por lo que realicé un curso de Diseño Web proporcionado por la <a href="https://conectaempleo-formacion.fundaciontelefonica.com/argentina" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Fundación Telefónica Argentina</em></a>.<br />
+                Empecé a incursionar en el mundo del <em>Desarrollo Web</em> a principios del 2021 después de haber estudiado <em>Marketing Digital</em>. Allí conocí las bases y decidí
+                aprender más al respecto, por lo que realicé un curso de <em>Diseño Web</em> proporcionado por la <a href="https://conectaempleo-formacion.fundaciontelefonica.com/argentina" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Fundación Telefónica Argentina</em></a>.<br />
                 Conociendo ya el funcionamiento básico de HTML y CSS, comencé a desarrollar algunos pequeños proyectos para poner en práctica mis conociemientos, 
                 a la vez que continué aprendiendo mediante documentación oficial, tutoriales y otros cursos online.
             </p>
