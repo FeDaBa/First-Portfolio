@@ -16,7 +16,7 @@ const About = () => {
 
             </div>
 
-            <p className="text-xl leading-8 tracking-wide font">
+            <p className="text-xl leading-8 tracking-wide">
 
                 En Marzo de 2022 comencé a cursar la carrera <em>Analista de Sistemas</em> en la <a href="https://www.uarg.unpa.edu.ar/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Universidad Nacional de la Patagonia Austral</em></a> (UNPA),
                 a traves de la cual he aprendido una gran cantidad de conceptos y fundamentos sobre Programación e Ingeniería de Software. Algunos meses despues, comencé a cursar el plan <em>Argentina Programa</em>, 
