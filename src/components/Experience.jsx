@@ -12,9 +12,6 @@ import tailwind from '../assets/tailwind.png'
 import css from '../assets/css.png'
 import html from '../assets/html.png'
 import git from '../assets/git.png'
-import github from '../assets/github.png'
-import gitkraken from '../assets/gitkraken.png'
-import netlify from '../assets/netlify.png'
 
 const Experience = () => {
 
@@ -91,25 +88,7 @@ const Experience = () => {
              src: git,
              title: 'Git',
              style: 'shadow-red-500'
-         },
-         {
-             id: 13,
-             src: github,
-             title: 'GitHub',
-             style: 'shadow-white'
-         },
-         {
-            id: 14,
-            src: gitkraken,
-            title: 'GitKraken',
-            style: 'shadow-cyan-400'
-        },
-        {
-            id: 15,
-            src: netlify,
-            title: 'Netlify',
-            style: 'shadow-cyan-300'
-        },
+         }
     ]
 
   return (
