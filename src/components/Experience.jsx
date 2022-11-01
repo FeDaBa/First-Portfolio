@@ -11,7 +11,6 @@ import bootstrap from '../assets/bootstrap.png'
 import tailwind from '../assets/tailwind.png'
 import css from '../assets/css.png'
 import html from '../assets/html.png'
-import postman from '../assets/postman.png'
 import git from '../assets/git.png'
 import github from '../assets/github.png'
 import gitkraken from '../assets/gitkraken.png'
@@ -88,32 +87,25 @@ const Experience = () => {
              style: 'shadow-red-600'
          },
          {
-            id: 12,
-            src: postman,
-            title: 'Postman',
-            style: 'shadow-orange-400'
-        },
-
-         {
-             id: 13,
+             id: 12,
              src: git,
              title: 'Git',
              style: 'shadow-red-500'
          },
          {
-             id: 14,
+             id: 13,
              src: github,
              title: 'GitHub',
              style: 'shadow-white'
          },
          {
-            id: 15,
+            id: 14,
             src: gitkraken,
             title: 'GitKraken',
             style: 'shadow-cyan-400'
         },
         {
-            id: 16,
+            id: 15,
             src: netlify,
             title: 'Netlify',
             style: 'shadow-cyan-300'
