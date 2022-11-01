@@ -15,7 +15,7 @@ const Contact = () => {
                 </p>
 
                 <p className="py-6">
-                    Si desea contactarme, por favor complete el siguiente formulario
+                    Si desea contactarme, puede completar el siguiente formulario.
                 </p>
 
             </div>
