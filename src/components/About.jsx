@@ -15,10 +15,21 @@ const About = () => {
                 </p>
 
             </div>
+    
+            
+            <p className="text-xl leading-8 tracking-wide">
+
+                Empecé a incursionar en el mundo del Desarrollo Web a principios del 2021 después de haber estudiado Marketing Digital. Allí conocí las bases y decidí
+                aprender más al respecto, por lo que realicé un curso de Diseño Web proporcionado por la <a href="https://conectaempleo-formacion.fundaciontelefonica.com/argentina" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Fundación Telefónica Argentina</em></a>.<br />
+                Conociendo ya el funcionamiento básico de HTML y CSS, comencé a desarrollar algunos pequeños proyectos para poner en práctica mis conociemientos, 
+                a la vez que continué aprendiendo mediante documentación oficial, tutoriales y otros cursos online.
+            </p>
+    
+            <br />
 
             <p className="text-xl leading-8 tracking-wide">
 
-                En Marzo de 2022 comencé a cursar la carrera <em>Analista de Sistemas</em> en la <a href="https://www.uarg.unpa.edu.ar/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Universidad Nacional de la Patagonia Austral</em></a> (UNPA),
+                En Marzo del 2022 comencé a cursar la carrera <em>Analista de Sistemas</em> en la <a href="https://www.uarg.unpa.edu.ar/" className="text-cyan-400" target={'_blank'} rel="noreferrer"><em>Universidad Nacional de la Patagonia Austral</em></a> (UNPA),
                 a traves de la cual he aprendido una gran cantidad de conceptos y fundamentos sobre Programación e Ingeniería de Software. <br />
        
                 Algunos meses despues, comencé a cursar el plan <em>Argentina Programa</em>, 
