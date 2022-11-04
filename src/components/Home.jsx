@@ -19,7 +19,7 @@ const Home = () => {
                 </h2>
 
                 <p className="text-gray-400 py-6 max-w-md">
-                    Desarrollador Web Front End desde 2021
+                    Desarrollador Web
                 </p>
 
                 <div>
