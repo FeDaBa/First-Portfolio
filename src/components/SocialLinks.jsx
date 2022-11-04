@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/Resume-Federico-Bahamonde.pdf',
+            href: '/CV-Federico-Bahamonde-2.pdf',
             style: 'rounded-tr-md',
             download: true
         },
