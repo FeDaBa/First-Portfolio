@@ -4,7 +4,7 @@ import dashboard from '../assets/portfolio/Dashboard.png'
 import socialMedia from '../assets/portfolio/Social-Media.png'
 import eternals from '../assets/portfolio/Eternals.png'
 import nftPreview from '../assets/portfolio/NFT-Preview.png'
-import orderSummary from '../assets/portfolio/Order-Summary.png'
+import tasks from '../assets/portfolio/Tasks-App.png'
 import calculator from '../assets/portfolio/Calculator.png'
 
 const Portfolio = () => {
@@ -36,9 +36,9 @@ const Portfolio = () => {
         },
         {
             id: 5,
-            src: orderSummary,
-            host: 'https://frontend-mentor-challenge-2.vercel.app/',
-            repo: 'https://github.com/FeDaBa/Order-summary'
+            src: tasks,
+            host: 'https://react-tasks-app.vercel.app/',
+            repo: 'https://github.com/FeDaBa/React-Tasks-App'
         },
         {
             id: 6,
