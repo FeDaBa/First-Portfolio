@@ -3,7 +3,7 @@ import React from 'react'
 import dashboard from '../assets/portfolio/Dashboard.png'
 import socialMedia from '../assets/portfolio/Social-Media.png'
 import eternals from '../assets/portfolio/Eternals.png'
-import nftPreview from '../assets/portfolio/NFT-Preview.png'
+import quotesGenerator from '../assets/portfolio/Quotes-Generator.png'
 import tasks from '../assets/portfolio/Tasks-App.png'
 import calculator from '../assets/portfolio/Calculator.png'
 
@@ -30,9 +30,9 @@ const Portfolio = () => {
         },
         {
             id: 4,
-            src: nftPreview,
-            host: 'https://frontend-mentor-challenge-1-five.vercel.app/',
-            repo: 'https://github.com/FeDaBa/NFT-preview-card'
+            src: quotesGenerator,
+            host: 'https://quotes-generator-brba.vercel.app/',
+            repo: 'https://github.com/FeDaBa/BrBa-Quotes-Generator'
         },
         {
             id: 5,
