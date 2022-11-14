@@ -31,7 +31,7 @@ const Navbar = () => {
 
   return (
 
-    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
+    <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed transition all duration-200">
 
         <div>
             <h1 className="text-5xl ml-2" id="signature">Fede</h1>
