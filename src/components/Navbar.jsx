@@ -64,7 +64,7 @@ const Navbar = () => {
 
         {nav && (
 
-        <ul className={`flex flex-col justify-center items-center fixed top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500 transition-all duration-200 ${setNav ? "left-0" : "-left-full"}`}>
+        <ul className={`flex flex-col justify-center items-center fixed top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500 transition-all duration-200 ${nav ? "left-0" : "-left-full"}`}>
 
             {links.map(({ id, link }) => (
 
